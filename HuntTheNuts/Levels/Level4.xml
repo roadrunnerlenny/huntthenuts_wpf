@@ -2,7 +2,7 @@
 <level xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Level.xsd"
        name="Level 4" tileSize="20" background="NutsTheme/grass_bg" borderBackground="NutsTheme/border_hedge" 
        width="20" height="10" startSpeed="5" targetScore="70">
-  <snake snakeStartPosX="10" snakeStartPosY="8" offsetY="-5" filenameHead="NutsTheme/squirrel_animation" filenameTail="NutsTheme/squirrel_animation" 
+  <snake snakeStartPosX="10" snakeStartPosY="8" offsetY="-13" filenameHead="NutsTheme/squirrel_animation" filenameTail="NutsTheme/squirrel_animation" 
          filenameCollision="NutsTheme/collision" filenameWin="NutsTheme/dance" filenameGrow="NutsTheme/grow" filenameShrink="NutsTheme/shrink"
          animated="True" animationFrames="4" animationDelay="2" 
          collisionFrames="7" collisionDelay="3" winFrames="5" winDelay="5" growFrames="2" growDelay="10" shrinkFrames="7" shrinkDelay="3" />
@@ -19,13 +19,13 @@
 
   </apples>
   <objects>
-    <object number="1" posX="3" posY="3" sizeX="2" sizeY="2" offsetY="-10" name="Tree" filename="NutsTheme/tree" />
-    <object number="2" posX="3" posY="6" sizeX="3" sizeY="3" offsetY="-15" name="Big Tree" filename="NutsTheme/tree3" />
-    <object number="3" posX="15" posY="2" sizeX="2" sizeY="2" offsetY="-10" name="Tree" filename="NutsTheme/tree" />
-    <object number="3" posX="16" posY="4" sizeX="2" sizeY="2" offsetY="-10" name="Tree" filename="NutsTheme/tree" />
-    <object number="3" posX="17" posY="6" sizeX="2" sizeY="2" offsetY="-10" name="Tree" filename="NutsTheme/tree" />
-    <object number="3" posX="7" posY="3" sizeX="2" sizeY="2" offsetY="-10" name="Tree" filename="NutsTheme/tree" />
-    <object number="3" posX="9" posY="5" sizeX="1" sizeY="1" offsetY="-8" name="Sunflower" filename="NutsTheme/flower" />
-    <object number="3" posX="12" posY="7" sizeX="1" sizeY="1" offsetY="-8" name="Sunflower" filename="NutsTheme/flower" />
+    <object number="1" posX="3" posY="3" sizeX="2" sizeY="2" offsetY="-27" name="Tree" filename="NutsTheme/tree" />
+    <object number="2" posX="3" posY="6" sizeX="3" sizeY="3" offsetY="-32" name="Big Tree" filename="NutsTheme/tree3" />
+    <object number="3" posX="15" posY="2" sizeX="2" sizeY="2" offsetY="-27" name="Tree" filename="NutsTheme/tree" />
+    <object number="3" posX="16" posY="4" sizeX="2" sizeY="2" offsetY="-27" name="Tree" filename="NutsTheme/tree" />
+    <object number="3" posX="17" posY="6" sizeX="2" sizeY="2" offsetY="-27" name="Tree" filename="NutsTheme/tree" />
+    <object number="3" posX="7" posY="3" sizeX="2" sizeY="2" offsetY="-27" name="Tree" filename="NutsTheme/tree" />
+    <object number="3" posX="9" posY="5" sizeX="1" sizeY="1" offsetY="-20" name="Sunflower" filename="NutsTheme/flower" />
+    <object number="3" posX="12" posY="7" sizeX="1" sizeY="1" offsetY="-20" name="Sunflower" filename="NutsTheme/flower" />
   </objects>
 </level>
